@@ -1,0 +1,17 @@
+{
+  "title": "O mnie",
+  "imageUrl": "content/psycholozka.webp",
+  "imageAlt": "Zdjęcie Anny Kowalskiej",
+  "description": [
+    "Jestem doświadczonym psychologiem klinicznym z wieloletnim stażem w pracy z pacjentami różnych grup wiekowych.",
+    "Specjalizuję się w terapii poznawczo-behawioralnej oraz pracy z zaburzeniami lękowymi i depresyjnymi.",
+    "Moim celem jest tworzenie bezpiecznej przestrzeni, w której moi pacjenci mogą odkrywać swoje możliwości i dążyć do pozytywnych zmian."
+  ],
+  "badges": [
+    "Terapia CBT",
+    "Psychologia kliniczna", 
+    "Terapia par",
+    "Mindfulness",
+    "Psychoedukacja"
+  ]
+}
